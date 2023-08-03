@@ -14,7 +14,8 @@
 
 
 2. 게임 진행 화면
-![image](https://github.com/eomgisan/Unity_JAM0/assets/90389456/e2668235-f7a3-4188-b2d7-6c4a207c111c)
+![image](https://github.com/eomgisan/Unity_JAM0/assets/90389456/280537e1-26a2-4e2d-aa12-e21c4d3bc2ed)
+
 > 아이템이 랜덤으로 떨어지며, 각 턴마다 적이 포탄을 발사하거나 플레이어가 포탄을 발사합니다.
 
 더욱 자세한 내용은 레파지토리에 있는 pdf 파일을 참고
